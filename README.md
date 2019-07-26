@@ -54,3 +54,9 @@ $ python3 -u chainer_transformer.py --mode test --gpus 0 --dataset iwslt2016-de-
 
 # License
 MIT License. Please see the LICENSE file for details.
+
+# Authors
+We thank Takeru Miyato (@takerum), who gave us valuable comments about AdvT/VAT.
+Thank you the code of Transformer by @butsugiri (3rd author)
+# Contact
+Please give me comments or questions: @aonotas
