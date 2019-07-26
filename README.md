@@ -1,5 +1,6 @@
 # Virtual Adversarial Training for NMT (Transformer model)
 ACL 2019 implementation
+"Effective Adversarial Regularization for Neural Machine Translation"
 
 # References
 Motoki Sato, Jun Suzuki, Shun Kiyono. "Effective Adversarial Regularization for Neural Machine Translation", ACL 2019
