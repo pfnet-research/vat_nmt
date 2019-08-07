@@ -57,7 +57,8 @@ MIT License. Please see the LICENSE file for details.
 
 # Authors
 We thank Takeru Miyato ([@takerum](https://github.com/takerum)), who gave us valuable comments about AdvT/VAT.
-Thank you the code of Transformer by ([@butsugiri](https://github.com/butsugiri))
+
+The codebase of the transformer is developed by Shun Kiyono ([@butsugiri](https://github.com/butsugiri))
 
 # Contact
 Please give me comments or questions: [@aonotas](https://github.com/aonotas)
