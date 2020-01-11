@@ -3,7 +3,7 @@ Implementation of "Effective Adversarial Regularization for Neural Machine Trans
 
 ## References
 Motoki Sato, Jun Suzuki, Shun Kiyono. "Effective Adversarial Regularization for Neural Machine Translation", ACL 2019
-[URL]
+[paper](https://www.aclweb.org/anthology/P19-1020) [bib](https://aclweb.org/anthology/papers/P/P19/P19-1020.bib)
 
 # How to use
 ## Requirements
